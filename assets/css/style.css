@@ -600,7 +600,7 @@ ul.product-menu-list li {
   display: block;
   height: 45.2rem;
   width: 56%;
-  background-image: url(/assets/img/pizza.png);
+  background-image: url(./assets/img/pizza.png);
   background-size: 100%;
   background-position: center;
   background-repeat: no-repeat;
